@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="workshop poster.svg"
+   inkscape:export-filename="/home/karenu/workshop poster.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="3.817402"
+     inkscape:cx="408"
+     inkscape:cy="560.59069"
+     inkscape:window-width="3840"
+     inkscape:window-height="2076"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="164.58761"
+       y="893.6245"
+       width="152.60181"
+       height="94.93115"
+       id="rect2483" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect31"
+       width="205"
+       height="205"
+       x="5.3650999"
+       y="6.23312"
+       style="stroke-width:0.258283;fill:#ffff00"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.202309,-46.920255)"
+       id="text2481"
+       style="font-style:normal;font-weight:normal;font-size:74.6667px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2483);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="164.58789"
+         y="1084.4839"
+         id="tspan131756"><tspan
+           dx="0 54.796902 60.812534 57.786484 51.005234"
+           style="font-style:italic;font-weight:bold;line-height:2.05;-inkscape-font-specification:'sans-serif Bold Italic'"
+           id="tspan131754">COVER</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;letter-spacing:1.397px;stroke-width:0.264583"
+       x="131.67664"
+       y="200.62897"
+       id="text20886"><tspan
+         sodipodi:role="line"
+         id="tspan20884"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="131.67664"
+         y="200.62897">NCW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.70278px;line-height:1.25;font-family:sans-serif;letter-spacing:0.341312px;stroke-width:0.264583"
+       x="-210.3127"
+       y="12.305147"
+       id="text24826"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-size:6.70278px;stroke-width:0.264583"
+         x="-210.3127"
+         y="12.305147"
+         id="tspan58216">Conference on Neural  Information Processing Systems</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:1.32292px;word-spacing:0px;stroke-width:0.264583"
+       x="6.8732696"
+       y="226.58293"
+       id="text25028"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="226.58293"
+         id="tspan76884">Rianne van den Berg </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="235.40237"
+         id="tspan76888">Chris J. Maddison</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="244.22183"
+         id="tspan25032">Karen Ullrich</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="253.04129"
+         id="tspan25036">Daniel Severo</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="261.86072"
+         id="tspan25034">Max Welling</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="270.68018"
+         id="tspan64226">José Miguel Hernández-Lobato</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="6.8732696"
+         y="279.49963"
+         id="tspan25038" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1.25;font-family:sans-serif;letter-spacing:3.96875px;word-spacing:0px;stroke-width:0.264583"
+       x="163.13609"
+       y="21.041126"
+       id="text29626"><tspan
+         sodipodi:role="line"
+         id="tspan29624"
+         style="font-size:12.7px;stroke-width:0.264583"
+         x="163.13609"
+         y="21.041126"
+         dx="0"
+         dy="0">2021</tspan></text>
+  </g>
+</svg>
